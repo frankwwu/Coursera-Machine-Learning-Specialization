@@ -1,6 +1,6 @@
 # Week 1: Neural Networks
 
-This week, you'll learn about neural networks and how to use them for classification tasks. You'll use the TensorFlow framework to build a neural network with just a few lines of code. Then, dive deeper by learning how to code up your own neural...
+This week, you'll learn about neural networks and how to use them for classification tasks. You'll use the TensorFlow framework to build a neural network with just a few lines of code. Then, dive deeper by learning how to code up your own neural network in Python, "from scratch". Optionally, you can learn more about how neural network computations are implemented efficiently using parallel processing (vectorization).
 
 ## Learning Objectives
 
@@ -67,7 +67,7 @@ CoffeeRoastingNumPy - Lab • Duration: 1 h
 
 Practice quiz: Neural network implementation in Python
 
-# Speculations on artificial general intelligence (AGI)
+## Speculations on artificial general intelligence (AGI)
 
 Is there a path to AGI? - Video • Duration: 10 min
 
